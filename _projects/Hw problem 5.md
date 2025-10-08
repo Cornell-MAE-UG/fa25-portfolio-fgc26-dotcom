@@ -1,8 +1,8 @@
 ---
 ---
-Layout: Project ---
-Title: "HW #4 Problem 5" ---
-Description: "Design with an Actuator" ---
+layout: Project ---
+title: "HW #4 Problem 5" ---
+description: "Design with an Actuator" ---
  
 ---
 

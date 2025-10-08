@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Flavia Capet
 description              : Flavia Capet - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : " /spring-2025-portfolio-FlaviaCapet/"
 
 # Theme and Style
 theme: jekyll-theme-minimal
