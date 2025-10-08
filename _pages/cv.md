@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Flavia Capet - Curriculum Vitae
+title: Flavia Capet - Resume
 permalink: /cv/
 ---
-## Curriculum Vitae
+## Resume
 
-[Download my CV]({{ "/assets/Resume.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/images/Resume.pdf" | relative_url }}) in PDF format.
 
 
