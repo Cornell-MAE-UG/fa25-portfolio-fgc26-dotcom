@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Flavia Capet
+image: /assets/images/Problem5.png
 ---
 
 ## About Me
