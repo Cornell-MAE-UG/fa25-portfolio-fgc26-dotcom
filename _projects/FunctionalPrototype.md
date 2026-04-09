@@ -1,28 +1,20 @@
 --- 
 layout: project
 title: "ODP 4: Functional Prototype"
+description: "First prototype Design and testing"
 technologies: [python]
 image: /assets/images/CAD.png
 --- 
 
----
-**Team Name:** Save the Grapes
 
+**Team:** Save the Grapes
+**Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
-**Team:** Neil, Susanna, Jamie, Flavia, Luca  
-
-
-<div style="clear: both;"></div>
----
 ## Bill of Materials
 
 <div style="display: flex; justify-content: center;">
   <img src="{{ '/assets/images/BOM.png' | relative_url }}" width="700">
 </div>
-
-
-
----
 
 ## Design Intent
 
@@ -32,8 +24,6 @@ image: /assets/images/CAD.png
   <img src="{{ '/assets/images/Sketch.png' | relative_url }}" width="700">
 </div>
 
-
----
 
 ## CAD Assembly
 
@@ -45,8 +35,6 @@ image: /assets/images/CAD.png
   <img src="{{ '/assets/images/CAD2.png' | relative_url }}" width="700">
 </div>
 
-
----
 
 ## Assembly Process
 
@@ -85,8 +73,6 @@ image: /assets/images/CAD.png
 - Cut hole through the middle using a hole saw
 
 
----
-
 ### PVC Pipe & Tubing System
 
 **Components:**
@@ -118,8 +104,6 @@ image: /assets/images/CAD.png
 - Place PVC Pipe with wrapped tubing through hole in the box
 - Go through and every 1/16 in make a very small slash in the wrapped tubing outside using the Xacto knife
 
-
----
 
 ## Design Test
 
@@ -178,8 +162,6 @@ Data Table 1 shows our results from the incision flow. Based on Data Table 1, ou
 
 Data Table 2 shows the results from the flow rate from the shower head design experiment. The flow rate for the shower head design was noticeably higher than the incision design (factor of 30x). This matched our expectations because we had a much larger cross sectional area in the shower head for the water to flow when compared with the incision design. Image 2 shows the shower head design experiment. We propped the shower head at a height similar to where it would stand on the final product in order to gauge flow rate at a non-zero height above the pump. This is important because the higher the water has to be pumped, the slower the flow rate will be. 
 
-
----
 
 
 ## Success Criteria
