@@ -17,7 +17,7 @@ image: /assets/images/CAD.png
 ## Bill of Materials
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/images/BOM.png" width="700">
+  <img src="{{ '/assets/images/BOM.png' | relative_url }}" width="700">
 </div>
 
 
@@ -29,7 +29,7 @@ image: /assets/images/CAD.png
 **Sketch:**
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/images/Sketch.png" width="700">
+  <img src="{{ '/assets/images/Sketch.png' | relative_url }}" width="700">
 </div>
 
 
@@ -38,11 +38,11 @@ image: /assets/images/CAD.png
 ## CAD Assembly
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/images/LCAD.png" width="700">
+  <img src="{{ '/assets/images/LCAD.png' | relative_url }}" width="700">
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/images/CAD2.png" width="700">
+  <img src="{{ '/assets/images/CAD2.png' | relative_url }}" width="700">
 </div>
 
 
@@ -141,7 +141,7 @@ Our testing process verified two different aspects of our prototype, both of whi
   </div>
 
   <div>
-    <img src="/assets/images/Image1.png" width="350">
+    <img src="{{ '/assets/images/Image1.png' | relative_url }}" width="350">
   </div>
 
 </div>
@@ -169,7 +169,7 @@ Data Table 1 shows our results from the incision flow. Based on Data Table 1, ou
   </div>
 
   <div>
-    <img src="/assets/images/Image2.png" width="350">
+    <img src="{{ '/assets/images/Image2.png' | relative_url }}" width="350">
   </div>
 
 </div>
