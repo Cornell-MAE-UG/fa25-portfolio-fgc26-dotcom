@@ -1,8 +1,9 @@
 ---
 layout: project
-title: "MAE 2250 Client Pitch"
+title: "ODP3: Client Pitch"
 description: "Client pitch presentation and analysis"
 technologies: [python]
+category: odp
 image: /assets/images/Graph.jpg
 ---
 
@@ -56,3 +57,5 @@ image: /assets/images/Graph.jpg
 ![Latern Fly Desnity on Grape Vines]({{ "/assets/images/Graph.jpg" | relative_url }})
 
 View the PDF version here: [Link]({{ "/assets/images/Save_the_Grapes.pdf" | relative_url }})
+
+

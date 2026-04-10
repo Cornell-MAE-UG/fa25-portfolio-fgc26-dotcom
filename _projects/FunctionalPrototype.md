@@ -3,6 +3,7 @@ layout: project
 title: "ODP 4: Functional Prototype"
 description: "First prototype Design and testing"
 technologies: [python]
+category: odp
 image: /assets/images/CAD.png
 --- 
 
