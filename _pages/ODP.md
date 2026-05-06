@@ -24,7 +24,7 @@ permalink: /projects/open-design-project/
     </div>
      <div class="gallery-item">
       <a href="{{ '/projects/ODP6/' | relative_url }}">
-        <img src="{{ '/assets/images/CAD.png' | relative_url }}" alt="First Prototype" />
+        <img src="{{ '/assets/images/ODP6CAD.png' | relative_url }}" alt="First Prototype" />
         <p>ODP 6: Client Report</p>
       </a>
     </div>
