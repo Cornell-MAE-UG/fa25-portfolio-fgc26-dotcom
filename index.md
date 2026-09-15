@@ -10,7 +10,11 @@ image: /assets/images/Problem5.png
 ![Profile Picture]({{ "assets/images/IMG_7741.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is Flavia Capet, and I am a sophmore studying mechanical engineering at Cornell University. I’m especially interested in biomedical engineering and product design, and I’ve been developing hands-on skills through the CUSail Project Team, where I’ve worked on boat deck design in SolidWorks and machining. I also enjoy outreach, like planning STEM activities through the Society of Women Engineers. Looking ahead, I’m eager to apply my technical background and creativity to real-world projects in the mechanical engineering world, while continuing to learn from collaborative, team-driven environments.
+My name is Flavia Capet, and I am a Mechanical Engineering student at Cornell University with a strong interest in mechanical design and turning engineering concepts into functional, real-world systems.
+
+Through my work as the Sails & Rigging Lead for CUSail, I have gained hands-on experience designing components and systems for an autonomous sailboat, including servo mounts, sail-control mechanisms, mast and boom components, and a gyroscopic stabilization system. These projects have strengthened my experience with SolidWorks, Autodesk Fusion, 3D printing, prototyping, and mechanical assembly design.
+
+My professional experience has also allowed me to see engineering from a different perspective. As an MEP Estimating Intern at Turner Construction, I worked extensively with mechanical drawings, performed quantity takeoffs, and learned how mechanical systems are designed, coordinated, and ultimately constructed. Together, these experiences have made me particularly interested in pursuing a career where I can continue applying CAD, analysis, and hands-on problem solving to mechanical design challenges.
 
 
 Take a look at <a href="{{ "projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

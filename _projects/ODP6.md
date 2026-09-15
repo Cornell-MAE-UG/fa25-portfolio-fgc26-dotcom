@@ -1,6 +1,6 @@
 --- 
 layout: project
-title: "ODP 6: Client Report"
+title: "Open Design Project: VineGaurd"
 description: "Final Design and Report"
 technologies: [python]
 category: odp
